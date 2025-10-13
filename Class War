@@ -815,101 +815,101 @@ campaignTrail_temp.achievements = {
   "A Political Revolution         " : {
     "image" : "https://i.imgur.com/P1ATNlL.png",
     "description" : "As Bernie, win convincingly.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "A Corporate Empire         " : {
     "image" : "https://i.imgur.com/h3rr3ML.png",
     "description" : "As Romney, keep Sanders under 47%.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "A Miraculous Vengeance         " : {
     "image" : "https://i.imgur.com/e2UCemd.png",
     "description" : "Have an alternate Democrat win.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "A Surprising Save         " : {
     "image" : "https://i.imgur.com/zS480Vp.png",
     "description" : "Have an alternate Republican win.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Forever Defeated         " : {
     "image" : "https://i.imgur.com/F5UGm9F.png",
     "description" : "As Bernie, prove Hillary right.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Forever Destroyed         " : {
     "image" : "https://i.imgur.com/n9Cy5ZL.png",
     "description" : "As Romney, doom the party.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Bernie Castro         " : {
     "image" : "https://i.imgur.com/w6fc3hx.png",
     "description" : "As Bernie, bring socialism to Florida.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "The Spirit of George         " : {
     "image" : "https://i.imgur.com/v9yrhBS.png",
     "description" : "As Romney, win your father’s state.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Just Another Politician         " : {
     "image" : "https://i.imgur.com/c77YnSa.png",
     "description" : "As Bernie, sell out to win.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Loose Principles         " : {
     "image" : "https://i.imgur.com/6yfBAQ4.png",
     "description" : "As Romney, cave to the far-right and win.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Despite Enemies Aligned         " : {
     "image" : "https://i.imgur.com/NY1YV3B.png",
     "description" : "As Bernie, win with everyone against you.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Despite Party Fracture         " : {
     "image" : "https://i.imgur.com/3pR8wtk.png",
     "description" : "As Romney, overcome the right-wing splinter.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Miracle Worker         " : {
     "image" : "https://i.imgur.com/JuJaAot.png",
     "description" : "As Bernie, unite the party without compromising your values.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Chain Breaker         " : {
     "image" : "https://i.imgur.com/cwz8CQ9.png",
     "description" : "As Romney, disavow your corporate overlords.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "An Enshrined Legacy         " : {
     "image" : "https://i.imgur.com/DdrXt0J.png",
     "description" : "As Bernie, flip the Court.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Cost of Doing Business         " : {
     "image" : "https://i.imgur.com/j4DcSv5.png",
     "description" : "As Romney, eliminate the competition.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "The Second Civil War         " : {
     "image" : "https://i.imgur.com/s9MAumU.png",
     "description" : "As Bernie, go too far.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "The Third World War         " : {
     "image" : "https://i.imgur.com/d6Qjj3E.png",
     "description" : "As Romney, stand against a greater enemy.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "Comrade Sanders         " : {
     "image" : "https://i.imgur.com/xnEwOxT.png",
     "description" : "As Bernie, succumb to a darker force.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   },
   "From Reagan to Nixon         " : {
     "image" : "https://i.imgur.com/XvBQtE8.png",
     "description" : "As Romney, fall from great heights.",
-    "cannotBeCheated" : true
+    "cannotBeCheated" : false
   }
 }
