@@ -18685,8 +18685,8 @@ const runningMateIssueScores14 = [0.6, 0.5, 0.5, 0.6, 0.5];
 const runningMateIssueScores15 = [0.45, 0.4, 0.3, 0.5, 0.45];
 const runningMateIssueScores16 = [0.4, 0.2, 0.4, 0.5, 0.5];
 
-var Establishment = -9;
-var Ideology = 9;
+var Establishment = 4;
+var Ideology = 4;
 var HillaryEndorsement = 0;
 var Garland = 0;
 var ThirdPartyBoost = 0;
